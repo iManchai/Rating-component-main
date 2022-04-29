@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://sprightly-stardust-eef71d.netlify.app/)
 
 ## My process
 
@@ -50,12 +50,12 @@ I want to keep practicing and learning about manipulating the DOM with JS, also 
 ### Useful resources
 
 - [Resource 1](https://bobbyhadz.com/blog/javascript-remove-class-from-multiple-elements) - This blog that I founded searching on how to manipulate the DOM was a really helpfull site to understand and see how to do certain things.
-- [W3Schools](https://www.w3schools.com/) - W3Schools is always there to help to find certain information about CSS, Javascript or HTML. It doesn't need more explanation.
-- [MDN] (https://developer.mozilla.org/) - The Mozilla Developer Network is, along W3Scholls, one of the best places to search when you are trying to figure out something that you don't understand.
+- [W3Schools](https://www.w3schools.com) - W3Schools is always there to help to find certain information about CSS, Javascript or HTML. It doesn't need more explanation.
+- [MDN] (https://developer.mozilla.org) - The Mozilla Developer Network is, along W3Scholls, one of the best places to search when you are trying to figure out something that you don't understand.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Website - [Elias Fung](https://imanchai.github.io/CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iManchai)
